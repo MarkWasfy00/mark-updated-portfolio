@@ -109,7 +109,7 @@ main .img {
 main .img .mark {
   height: 200px;
   width: 200px;
-  background-image: url(/img/104571451_10207273335948391_4505790066415207605_n.jpg);
+  background-image: url("../img/104571451_10207273335948391_4505790066415207605_n.jpg");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
